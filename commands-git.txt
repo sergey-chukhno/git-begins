@@ -1,0 +1,13 @@
+# Command to clone git repository:
+  git clone 'https' or 'ssh'
+
+#Three commands to push a file/files:
+    #Add a file or files:
+    git add . - to add all files 
+    git filename - to add a particular file
+
+    #Commit changes with a message
+      git commit -m"" - to add message text in ""
+
+    #Push to remote repository
+      git push origin main
