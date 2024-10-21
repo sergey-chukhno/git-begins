@@ -11,3 +11,6 @@
 
     #Push to remote repository
       git push origin main
+
+    #Command to make a pull from GitHub to my local Git:
+      git pull origin branch-name
