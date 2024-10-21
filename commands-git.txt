@@ -11,3 +11,7 @@
 
     #Push to remote repository
       git push origin main
+
+#Command to add a new branch and to switch to another branch:
+	git branch branchname
+	git switch branchname
